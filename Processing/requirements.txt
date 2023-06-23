@@ -1,0 +1,7 @@
+pandas
+textblob
+boto3
+altair
+flask
+requests
+textblob

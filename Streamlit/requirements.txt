@@ -1,0 +1,9 @@
+pandas
+streamlit
+wordcloud
+matplotlib
+textblob
+python-dotenv
+altair
+flask
+requests
