@@ -1,7 +1,5 @@
 # Project Name: Sentiment Analysis
 
-**Copyright [2023] [Emilio Dallastella]**
-
 ## Introduction
 This project, Sentiment Analysis, is a comprehensive sentiment analysis application built using various technologies and frameworks. It leverages the YouTube API, Streamlit, Flask, and Data Processing to provide insightful sentiment analysis of YouTube comments.
 
